@@ -33,3 +33,7 @@ body{
 .jumbotron-time{
     background: #fff;
 }
+/* Card style */
+.card a{
+    cursor: pointer;
+}
